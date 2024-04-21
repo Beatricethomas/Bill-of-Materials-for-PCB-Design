@@ -60,6 +60,7 @@ During the product life, components may fail needing repair or upgrade. Here the
 # Circuit Diagram
 
 
+![BOM](https://github.com/Beatricethomas/Bill-of-Materials-for-PCB-Design/assets/140035214/03b7b094-7632-4456-8f3b-3c852930560c)
 
 
 # Output
